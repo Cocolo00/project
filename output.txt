@@ -1,0 +1,2 @@
+Epoch 1 | Training loss 0.6485 | Training Precision 27.19 | Training AUC 0.74 | Validation loss 0.6331 | Validation Precision 13.09 | AUC 0.72
+ TEST Precision 6.381% 
